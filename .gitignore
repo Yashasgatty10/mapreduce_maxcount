@@ -1,0 +1,6 @@
+*.class
+*.jar
+output/
+testdir/
+copied_test.txt
+test.txt
